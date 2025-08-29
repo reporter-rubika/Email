@@ -1,5 +1,5 @@
 import smtplib
-from email.mime.text import MIMEText
+from email import MIMEText
 import time
 from termcolor import colored
 
